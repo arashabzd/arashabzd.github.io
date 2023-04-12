@@ -1,7 +1,7 @@
 ---
 title: LeetCode Practice Notes
 date: 2023-04-12 13:49:00 +0330
-categories: [Dev, IDE]
+categories: [Coding, Python]
 tags: [leetcode, python]     # TAG names should always be lowercase
 ---
 # LeetCode
