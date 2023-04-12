@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
+Machine Learning Engineer and AI graduate experienced in developing Machine Learning, Deep Learning, Computer Vision, and Reinforcement Learning systems. I enjoy developing prototypes to solve real-world problems; and transforming them into well-designed production-grade machine learning systems.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This is a personal website. You can find my updated resume, contact info and some other things here.
