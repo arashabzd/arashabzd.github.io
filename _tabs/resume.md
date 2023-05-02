@@ -13,8 +13,11 @@ Machine Learning Engineer and AI graduate experienced in developing Machine Lear
 
 ## EXPERIENCE
 
+### Data Scientist May 2023 - Present
+TrendPlus AB, Tehran, Iran 
+
 ### Machine Learning Engineer Nov 2021 - Jan 2023
-Alibaba Travels Co. (Dynamic Pricing Team) Tehran, Iran
+Alibaba Travels, Tehran, Iran
 
 - Led the research and development of a dynamic pricing reinforcement learning agent for airlines that involved system design, feature engineering, experimentation and training, evaluation, model selection, and serving.
 - Developed an Imitation Learning Agent for flight pricing on scarce expert’s historical data using XGBoost, which achieved 84% on R2 score.
