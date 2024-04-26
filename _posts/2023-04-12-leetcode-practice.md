@@ -5,7 +5,8 @@ categories: [Notes, Python]
 tags: [leetcode, python, algorithms, interview]
 math: true
 ---
-# LeetCode
+## LeetCode
+
 My LeetCode practice notes
 
 \# | Problem | Difficulty | Tags | Notes
