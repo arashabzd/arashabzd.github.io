@@ -4,43 +4,56 @@ icon: fas fa-info-circle
 order: 1
 ---
 # ARASH AGHABABAZADEH
+
 __Data Scientist \| Machine Learning Engineer__ \
-_Tehran, Iran_ 
+_Tehran, Iran_
 <!-- __Email:__ [arashabzd@gmail.com](mailto:arashabzd@gmail.com) \| __LinkedIn:__ [arashabzd](https://www.linkedin.com/in/arashabzd) \| __GitHub:__ [arashabzd](https://www.github.com/arashabzd) -->
 ## SUMMARY
+
 ---
-Machine Learning Engineer and AI graduate experienced in developing Machine Learning, Deep Learning, Computer Vision, and Reinforcement Learning systems. Passionate about developing prototypes to solve real-world problems; and transforming them into well-designed production-grade machine learning systems.
+I am a Machine Learning Engineer with a slight emphasis on the Engineering side. I like computers, and enjoy making systems that solve real-world problems. The majority of my professional experience involves working with large-scale tabular and time-series data.
 
 ## EXPERIENCE
 
-### Data Scientist May 2023 - Present
-TrendPlus AB, Tehran, Iran 
+### Data Scientist | May 2023 - Present
 
-### Machine Learning Engineer Nov 2021 - Jan 2023
-Alibaba Travels, Tehran, Iran
+> TrendPlus AB, Tehran, Iran
 
-- Led the research and development of a dynamic pricing reinforcement learning agent for airlines that involved system design, feature engineering, experimentation and training, evaluation, model selection, and serving.
-- Developed an Imitation Learning Agent for flight pricing on scarce expert’s historical data using XGBoost, which achieved 84% on R2 score.
-- Trained and deployed a price forecasting model for flights using temporal fusion transformers that improved the R2 Score of the baseline by 13%.
-- Proposed and Implemented a streaming/batch data pipeline (feature extraction and storage) using spark that increased the scalability of the machine learning projects and simplified serving B2B AI models.
+- Trained and deployed a large ensemble of LSTM-based short-term forecasting models with telecom-scale amount of time series data achieving below 0.1 sMAPE error.
+- Implemented a hierarchical anomaly detection model for telecom performance management data which reduced average MTTI of the network in a live environment.
+- Designed and trained a word2vec-based model for learning network alarm embeddings to compress correlated network alarms.
+- Implemented a root cause analysis method for network issues based on association rule mining.
 
-### Machine Learning Engineer (Part-time) Nov 2020 - Oct 2021
-Robust and Interpretable Machine Learning Lab, Sharif University of Technology Tehran, Iran
+### Machine Learning Engineer | Nov 2021 - Jan 2023
 
-- Configured and maintained the Kubernetes cluster on the lab’s infrastructure which simplified orchestration and provision of Lab’s resources.
-- Setup and configured Kubeflow which provided user management, resource allocation, and tools for developing ML pipelines and distributed training for students.
-- Increased cluster utilization by implementing distributed training benchmarks for identifying and optimizing bottlenecks.
+> Alibaba Travels, Tehran, Iran
+
+- Developed a goal oriented regression model for flight pricing which achieved below 0.1 sMAPE error.
+- Implemented a dynamic pricing reinforcement learning agent for flights based on offline-RL approach.
+- Trained and deployed a short term demand forecasting model for flight routes using an ensemble of ARIMA and LSTM based models.
+- Implemented ETLs and preprocessing data pipelines using PySpark and Airflow.
+
+### Machine Learning Engineer (Part-time) | Aug 2020 - Oct 2021
+
+> MCI R\&D Lab, SUT, Tehran, Iran
+
+- Trained large vision and language models using PyTorch Distributed Data Parallel approach.
+- Configured an on-premise Kubernetes and Hadoop cluster for distributed processing.
+- Maintained on-premise kubeflow for resource allocation, and distributed training of deep learning models.
 
 ## EDUCATION
 
 ### M.Sc. Artificial Intelligence Oct 2018 - Nov 2021
-Sharif University of Technology Tehran, Iran
 
-- Thesis: Self-Supervised Disentangled Image Representation Learning, GPA: 16.7/20
+> Sharif University of Technology Tehran, Iran
+
+- GPA: 16.7/20
+- Thesis: Self-Supervised Disentangled Image Representation Learning,
 - Courses: Machine Learning, Deep Learning, Computer Vision, Convex Optimization, Information Theory, Stochastic Processes
 
 ### B.Sc. Computer Engineering (Software)
-Azad University Central Tehran Branch
+
+> Azad University Central Tehran Branch
 
 - GPA: 15.7/20
 
@@ -51,14 +64,10 @@ Azad University Central Tehran Branch
 - Scored 101 on the TOEFL iBT exam (R: 28, L: 28, S: 24, W: 21)
 - Ranked 31st among more than 26,000 participants in M.Sc. Entrance Exam (Top 0.2%)
 
-## PROJECTS & CONTRIBUTIONS
-
-- NFlows: Contributed to nflows, a collection of normalizing flow generative models implemented in PyTorch.
-- Math2Latex: An OCR for converting images of math formulas to LATEXimplemented in PyTorch.
-
 ## SKILLS
 
-- Programming: Python, Matlab, C/C++
-- Machine Learning: Numpy, Pandas, Spark, Matplotlib, Seaborn, Pytorch, Tensorflow, Keras, Pyspark(MLlib), Scikit-Learn, XGBoost, Kubeflow, Airflow, MLFlow, Ray, Weights&Biases, Tensorboard
-- Software & Data: Git, Docker, Kubernetes, Linux(Bash), SQL, Hadoop(HDFS), Hive, Kafka, PostgreSQL, ElasticSearch
-- Other: Distributed Training, Agile, Teamwork, Presentation
+- __Programming:__ Python, C
+- __Software Developement:__ Git, Docker, FastAPI, GitLab CI/CD, Airflow, Streamlit
+- __Data:__ Numpy, Pandas, Polars, PySpark, SQL, S3
+- __Machine Learning:__ Scikit-learn, Statsmodels, XGBoost, LightGBM, Pytorch, Pytorch-Lightning
+- __Cloud Computing:__ Amazon SageMaker
