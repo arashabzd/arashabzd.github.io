@@ -43,7 +43,7 @@ I am a Machine Learning Engineer with a slight emphasis on the Engineering side.
 
 ## EDUCATION
 
-### M.Sc. Artificial Intelligence Oct 2018 - Nov 2021
+### M.Sc. Artificial Intelligence | Oct 2018 - Nov 2021
 
 > Sharif University of Technology Tehran, Iran
 
@@ -51,7 +51,7 @@ I am a Machine Learning Engineer with a slight emphasis on the Engineering side.
 - Thesis: Self-Supervised Disentangled Image Representation Learning,
 - Courses: Machine Learning, Deep Learning, Computer Vision, Convex Optimization, Information Theory, Stochastic Processes
 
-### B.Sc. Computer Engineering (Software)
+### B.Sc. Software Engineering | Oct 2013 - Dec 2017
 
 > Azad University Central Tehran Branch
 
