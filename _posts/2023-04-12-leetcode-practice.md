@@ -2,7 +2,7 @@
 title: LeetCode Practice 
 date: 2023-04-12 13:49:00 +0330
 categories: [Notes, Python]
-tags: [leetcode, python, algorithms, interview]
+tags: [python, algorithms]
 math: true
 ---
 ## LeetCode

@@ -1,8 +1,8 @@
 ---
 title: NBConvert Pre-commit Hook for Saving Notebook Reports
 date: 2024-04-26 14:51:00 +0330
-categories: [Notes, Jupyter]
-tags: [jupyter, pre-commit, nbconvert, data-science]
+categories: [Tools, Jupyter]
+tags: [jupyter, pre-commit, nbconvert]
 ---
 
 I usually have a `notebooks` directory in my data science project repositories that contains my whole analysis and experimentations in jupyter notebook format (checkout my [mlproject template](https://github.com/arashabzd/mlproject)). I try to keep my notebooks clean, relatively short and with one purpose to avoid having gigantic notebooks that even myself can't understand.
