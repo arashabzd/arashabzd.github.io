@@ -9,3 +9,5 @@ I am a __Machine Learning Engineer__ with a slight emphasis on the _Engineering_
 The majority of my professional experience involves working with large-scale __tabular__ and __time-series__ data, and I enjoy it a lot. I also did a thesis on interpretable image representation learning so I also know my way around images.
 
 On my free time, I play video games, and watch other people play video games, and discuss video games with my friendss.
+
+Here you will find a bunch of notes mostly intended for myself because I tend to come back and review them every once in a while. If other people fund it usefull its a plus.
