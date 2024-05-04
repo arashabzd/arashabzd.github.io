@@ -17,7 +17,7 @@ I am a Machine Learning Engineer with a slight emphasis on the Engineering side.
 
 ### Data Scientist | May 2023 - Present
 
-> TrendPlus AB, Tehran, Iran
+> TrendPlus AB, Stockholm, Sweden _(Remote)_
 
 - Trained and deployed a large ensemble of LSTM-based short-term forecasting models with telecom-scale amount of time series data achieving below 0.1 sMAPE error.
 - Implemented a hierarchical anomaly detection model for telecom performance management data which reduced average MTTI of the network in a live environment.
@@ -26,7 +26,7 @@ I am a Machine Learning Engineer with a slight emphasis on the Engineering side.
 
 ### Machine Learning Engineer | Nov 2021 - Jan 2023
 
-> Alibaba Travels, Tehran, Iran
+> Alibaba Travels, Tehran, Iran _(On-site)_
 
 - Developed a goal oriented regression model for flight pricing which achieved below 0.1 sMAPE error.
 - Implemented a dynamic pricing reinforcement learning agent for flights based on offline-RL approach.
@@ -35,7 +35,7 @@ I am a Machine Learning Engineer with a slight emphasis on the Engineering side.
 
 ### Machine Learning Engineer (Part-time) | Aug 2020 - Oct 2021
 
-> MCI R\&D Lab, SUT, Tehran, Iran
+> MCI R\&D Lab, SUT, Tehran, Iran _(On-site)_
 
 - Trained large vision and language models using PyTorch Distributed Data Parallel approach.
 - Configured an on-premise Kubernetes and Hadoop cluster for distributed processing.
